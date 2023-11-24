@@ -1,0 +1,32 @@
+
+----------------- MODO DE  FUNCIONAMIENTO (SOLO DE INTRODUCCION)-----------------
+
+Código 1 introduccion.py
+
+Este código se ejecuta primero. Lee los primeros párrafos de un documento de Word, utiliza OpenAI GPT-3.5 para generar un objeto JSON estructurado a partir de las instrucciones y el texto del documento, y guarda el JSON generado en un archivo.
+
+implementar.py
+Código 2 implementar.py
+
+Después de que se ha generado el JSON con el Código 2, este código se ejecuta. Abre un documento de Word desde una plantilla y realiza manipulaciones en el documento, como reemplazar texto específico y eliminar fragmentos no deseados. Luego, inserta la información estructurada del archivo JSON en posiciones particulares del documento.
+Código Principal (main.py o el script que contiene el código principal que mencionaste en tu última pregunta):
+
+Finalmente, se ejecuta el código principal que orquesta todo el proceso. Importa y ejecuta primero el Código 1 introduccion.py para generar el JSON. Luego, ejecuta el Código 2 implementar.py para manipular el documento de Word utilizando el JSON generado. Este código principal asegura que ambos códigos se ejecuten en el orden correcto y que interactúen de la manera deseada.
+
+Este flujo garantiza que primero se genere el JSON a partir del documento de Word y luego se utilice ese JSON para manipular otro documento de Word según las especificaciones dadas en el Código 1.
+
+
+
+----------------- DIAS DE DESARROLLO -----------------
+
+Lunes:
+Comencé la semana inmerso en la configuración de la API de OpenAI. Me sumergí en el código, logrando extraer los primeros párrafos del documento y transformarlos en un objeto JSON fascinante. Estaba emocionado por las posibilidades que se estaban desplegando.
+
+Martes:
+El día siguiente fue una inmersión profunda en la manipulación de documentos. Abrí la plantilla de Word y con cada línea de código, el documento se transformaba. Inserté datos precisos desde el JSON, viendo cómo la automatización cobraba vida en mi pantalla.
+
+Miércoles:
+Mi miércoles estuvo marcado por la integración de todo. Fusioné los códigos, realizando pruebas finales exhaustivas. Cada función, cada línea, se alineó perfectamente. La sensación de logro al ver el flujo de trabajo completo fue inigualable.
+
+Viernes:
+El viernes, tras refinamientos finales, presenté mi proyecto. Sentí una mezcla de nerviosismo y orgullo mientras compartía mi trabajo. Celebré los desafíos superados y reflexioné sobre el viaje, emocionado por futuras exploraciones tecnológicas.

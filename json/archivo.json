@@ -1,0 +1,69 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "Natural",
+        "Nombre": "NOEL MOISES CHAVEZ DELGADO",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "44335055",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "",
+        "Denominación que se le dará en el documento": "EL FIADOR",
+        "Representantes": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "Natural",
+        "Nombre": "MARIECRISS BABY DEPAZ PEREZ",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "42786971",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "",
+        "Denominación que se le dará en el documento": "EL FIADOR",
+        "Representantes": []
+    },
+    {
+        "Id": 3,
+        "Tipo": "Natural",
+        "Nombre": "ANA MARCIA GOYTIZOLO POMA",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "70653417",
+        "Estado_civil": "soltera",
+        "Relaciones_conyugales": [],
+        "Domicilio": "Mz. C, lote 12, urb. Miraflores, distrito y provincia de Trujillo, departamento de La Libertad",
+        "Denominación que se le dará en el documento": "",
+        "Representantes": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "Jurídica",
+        "Nombre": "BECTEK CONTRATISTAS S.A.C.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20430578805",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "",
+        "Denominación que se le dará en el documento": "fiador",
+        "Representantes": [
+            5
+        ]
+    },
+    {
+        "Id": 5,
+        "Tipo": "Natural",
+        "Nombre": "CARLOS EDUARDO HONORIO URRELO",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "17866162",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "Mz. A, Lote 02 de la Urbanización Los Portales del Golf, distrito de Victor Larco, provincia de Trujillo, departamento de La Libertad",
+        "Denominación que se le dará en el documento": "representante legal",
+        "Representantes": []
+    }
+]

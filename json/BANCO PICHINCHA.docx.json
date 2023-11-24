@@ -1,0 +1,28 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "NOEL MOISES CHAVEZ DELGADO",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "44335055",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": "NOEL MOISES CHAVEZ DELGADO",
+        "Representantes": [],
+        "Relaciones": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "MARIECRISS BABY DEPAZ PEREZ",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "42786971",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": "MARIECRISS BABY DEPAZ PEREZ",
+        "Representantes": [],
+        "Relaciones": []
+    }
+]

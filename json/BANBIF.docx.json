@@ -1,0 +1,43 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "jurídica",
+        "Nombre": "Banco Interamericano de Finanzas",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20101036813",
+        "Estado_civil": "",
+        "Domicilio": "Rivera Navarrete N° 600, San Isidro, Lima",
+        "Denominación que se le dará en el documento": "EL BANCO",
+        "Representantes": [
+            2
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "Jessica Giovanna Alva Seña",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18143401",
+        "Estado_civil": "soltero",
+        "Domicilio": "",
+        "Denominación que se le dará en el documento": "",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 3,
+        "Tipo": "natural",
+        "Nombre": "Helen Marissa Quezada Ramírez",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "42299727",
+        "Estado_civil": "soltero",
+        "Domicilio": "",
+        "Denominación que se le dará en el documento": "",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    }
+]

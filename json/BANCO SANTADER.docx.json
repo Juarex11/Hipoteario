@@ -1,0 +1,75 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "Jurídica",
+        "Nombre": "BANCO SANTANDER PERU S.A.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20516711559",
+        "Estado_civil": "",
+        "Domicilio": "R. Rivera Navarrete Nro. 475, Piso 14, distrito de San Isidro, provincia y departamento de Lima",
+        "Denominación": "EL BANCO",
+        "Representantes": [
+            2
+        ]
+    },
+    {
+        "Id": 2,
+        "Tipo": "Natural",
+        "Nombre": "RICARDO ALONSO NEUMANN FREYRE",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "43882649",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": ""
+    },
+    {
+        "Id": 3,
+        "Tipo": "Natural",
+        "Nombre": "ALFREDO PEREZ KLAUER",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "09300214",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": ""
+    },
+    {
+        "Id": 4,
+        "Tipo": "Jurídica",
+        "Nombre": "DANPER TRUJILLO S.A.C.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20170040938",
+        "Estado_civil": "",
+        "Domicilio": "Carretera Industrial a Laredo s/n Sector Barrio Nuevo, Moche, provincia de Trujillo, departamento de La Libertad",
+        "Denominación": "EL CLIENTE",
+        "Representantes": [
+            5,
+            6
+        ]
+    },
+    {
+        "Id": 5,
+        "Tipo": "Natural",
+        "Nombre": "ALEJANDRO IGNACIO FALCON GOMEZ SANCHEZ",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18034107",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": ""
+    },
+    {
+        "Id": 6,
+        "Tipo": "Natural",
+        "Nombre": "MARIA DEL SOCORRO JOH CHING",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "17808284",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": ""
+    }
+]

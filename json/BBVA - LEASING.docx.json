@@ -1,0 +1,96 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "Jurídica",
+        "Nombre": "HASS PERU S.A.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20481121966",
+        "Estado_civil": "",
+        "Domicilio": "Jr. Diego de Almagro Nro. 537, Distrito y Provincia de Trujillo, Departamento de La Libertad",
+        "Denominación": "LA ARRENDATARIA",
+        "Representantes": [
+            2,
+            3
+        ],
+        "Relaciones": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "Natural",
+        "Nombre": "GONZALO ALBERTO GANOZA TEMPLE",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18074169",
+        "Estado_civil": "Casado",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones": [
+            {
+                "Índice": 1,
+                "Tipo de relación": "Relación marital"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Tipo": "Natural",
+        "Nombre": "ROY JEFFERSON LOZANO VÁSQUEZ",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "40370632",
+        "Estado_civil": "Divorciado",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones": [
+            {
+                "Índice": 1,
+                "Tipo de relación": "Relación marital"
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Tipo": "Jurídica",
+        "Nombre": "BANCO BBVA PERÚ",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20100130204",
+        "Estado_civil": "",
+        "Domicilio": "Jr. Francisco Pizarro Nº 620, Distrito y Provincia de Trujillo, Departamento y Región La Libertad",
+        "Denominación": "EL BANCO",
+        "Representantes": [
+            5,
+            6
+        ],
+        "Relaciones": []
+    },
+    {
+        "Id": 5,
+        "Tipo": "Natural",
+        "Nombre": "PABLO MANUEL QUEZADA ZARAGOZA",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "41219719",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones": []
+    },
+    {
+        "Id": 6,
+        "Tipo": "Natural",
+        "Nombre": "LUIS BALLESTEROS OLAZABAL",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "16624230",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones": []
+    }
+]

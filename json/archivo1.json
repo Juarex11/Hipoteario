@@ -1,0 +1,106 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "DIEGO ALEXANDER CAMPOS LOPEZ",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "72914512",
+        "Estado_civil": "casado",
+        "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+        "Denominación": "EL CONSTITUYENTE/ EL CLIENTE/ EL DEPOSITARIO",
+        "Representantes": [
+        ],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 2,
+                "Tipo_de_relación": "matrimonio"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "KARLA STEPHANI VELEZMORO POLO",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "72919509",
+        "Estado_civil": "casada",
+        "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+        "Denominación": "EL CONSTITUYENTE/ EL CLIENTE/ EL DEPOSITARIO",
+        "Representantes": [],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 1,
+                "Tipo_de_relación": "matrimonio"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "BANCO INTERAMERICANO DE FINANZAS",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20101036813",
+        "Estado_civil": "",
+        "Domicilio": "Avenida Ricardo Rivera Navarrete N° 600, Distrito de San Isidro Provincia y Departamento de Lima",
+        "Denominación": "EL ACREEDOR",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "JESSICA GIOVANNA ALVA SELA",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18143401",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "FRIDA GRACIELA LANDAURO RATTO",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18032374",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 6,
+        "Tipo": "jurídica",
+        "Nombre": "ADMITRA S.A.C.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20536725319",
+        "Estado_civil": "",
+        "Domicilio": "Calle Guillermo Marconi número 451, San Isidro, provincia y departamento de Lima",
+        "Denominación": "",
+        "Representantes": [
+            7
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 7,
+        "Tipo": "natural",
+        "Nombre": "Victor Recoba Galvez",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "07965556",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    }
+]

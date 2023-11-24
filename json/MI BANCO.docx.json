@@ -1,0 +1,35 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "WILFREDO RODAS GUZMAN",
+        "Nacionalidad": "peruano(a)",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "17975716",
+        "Estado_civil": "casado",
+        "Domicilio": "Pueblo Joven La Esperanza, Calle Jose Gabriel Condorcanqui 1240 Lote 08, distrito La Esperanza, provincia Trujillo, departamento La Libertad",
+        "Denominación_en_documento": "EL/LOS GARANTE/S"
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "IRMA CONSUELO GALVEZ BARDALES",
+        "Nacionalidad": "peruano(a)",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "17972395",
+        "Estado_civil": "casada",
+        "Domicilio": "Pueblo Joven La Esperanza, Calle Jose Gabriel Condorcanqui 1240 Lote 08, distrito La Esperanza, provincia Trujillo, departamento La Libertad",
+        "Denominación_en_documento": "EL/LOS GARANTE/S"
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "MIBANCO, BANCO DE LA MICROEMPRESA S.A.",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20382036655",
+        "Estado_civil": "",
+        "Domicilio": "Domingo Orué 165 esquina con Av. Paseo de la República N° 4297-4299, Distrito: Surquillo, Provincia y Departamento: Lima",
+        "Denominación_en_documento": "MIBANCO"
+    }
+]
