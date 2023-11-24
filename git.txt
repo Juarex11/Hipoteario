@@ -1,0 +1,13 @@
+-- Ver si tengo git en la PC
+git --version
+-- Iniciar Git
+git init 
+
+
+git status -s
+git add .
+git status -s
+git commit -m ""
+
+-- para subir a la segunda
+git push
