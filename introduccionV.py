@@ -7,7 +7,7 @@ import os
 import win32com.client
 
 # Configuración de la clave de la API de OpenAI
-API_KEY = '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'
+API_KEY = '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'
 openai.api_key = API_KEY
 
 # Función para cargar y modificar el archivo JSON
