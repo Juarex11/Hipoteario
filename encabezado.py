@@ -2,6 +2,7 @@ import docx
 import openai
 import os
 import time
+<<<<<<< HEAD
 from docx.shared import Pt
 
 # Cambiamos formato de texyo usando una funcion de otro archivo
@@ -9,6 +10,14 @@ from implementar import cambiar_formato_texto
 
 # Configura la API de OpenAI con tu clave
 openai.api_key = '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'
+=======
+from implementar import cambiar_formato_texto
+from docx.shared import Pt
+
+
+# Configura la API de OpenAI con tu clave
+openai.api_key = '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'
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 
 # Función para obtener los primeros 3 párrafos de un archivo DOCX
 def obtener_primeros_parrafos(docx_path, num_parrafos=10):
@@ -19,6 +28,7 @@ def obtener_primeros_parrafos(docx_path, num_parrafos=10):
 # Función para generar texto con la IA
 def generar_texto_ia(prompt):
     # Llamar a la API de GPT-3 para completar el prompt
+<<<<<<< HEAD
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -27,6 +37,16 @@ def generar_texto_ia(prompt):
                     ]
     )
     return response.choices[0].message.content.strip()
+=======
+    response = openai.Completion.create(
+        model="text-davinci-003",
+        prompt=prompt[:4096],  # Reduzco la longitud del prompt a 4096 caracteres
+        max_tokens=100,
+        temperature=0.7
+    )
+
+    return response.choices[0].text.strip()
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 
 def cambiar_formato_texto(parrafo, fuente='Arial Narrow', tamaño=9):
     run = parrafo.runs[0]
@@ -38,7 +58,11 @@ def cambiar_formato_texto(parrafo, fuente='Arial Narrow', tamaño=9):
 def main():
     # Ruta del archivo DOCX original
     carpeta_documentos = 'documentos'
+<<<<<<< HEAD
     archivo_docx_original = 'IBR.docx'
+=======
+    archivo_docx_original = 'BCP - PYME.docx'
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
     ruta_completa_docx_original = os.path.join(carpeta_documentos, archivo_docx_original)
 
     # Verificar la existencia del archivo original

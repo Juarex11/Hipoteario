@@ -9,6 +9,7 @@
         "Estado_civil": "casado",
         "Relaciones_conyugales": [],
         "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+<<<<<<< HEAD
         "Denominación": "EL CONSTITUYENTE/ EL CLIENTE/ EL DEPOSITARIO",
         "Representantes": [
             {
@@ -16,6 +17,9 @@
             }
         ],
         "Relaciones": []
+=======
+        "Denominación": "EL CONSTITUYENTE"
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
     },
     {
         "Id": 2,
@@ -27,6 +31,7 @@
         "Estado_civil": "casado",
         "Relaciones_conyugales": [],
         "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+<<<<<<< HEAD
         "Denominación": "EL CONSTITUYENTE/ EL CLIENTE/ EL DEPOSITARIO",
         "Representantes": [],
         "Relaciones": []
@@ -61,6 +66,12 @@
     },
     {
         "Id": 5,
+=======
+        "Denominación": "EL CLIENTE"
+    },
+    {
+        "Id": 3,
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
         "Tipo": "jurídica",
         "Nombre": "BANCO INTERAMERICANO DE FINANZAS",
         "Nacionalidad": "",
@@ -69,9 +80,37 @@
         "Estado_civil": "",
         "Relaciones_conyugales": [],
         "Domicilio": "Avenida Ricardo Rivera Navarrete N° 600, Distrito de San Isidro Provincia y Departamento de Lima",
+<<<<<<< HEAD
         "Denominación": "EL ACREEDOR",
         "Representantes": [],
         "Relaciones": []
+=======
+        "Denominación": "EL ACREEDOR"
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "JESSICA GIOVANNA ALVA SELA",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18143401",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "",
+        "Denominación": ""
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "FRIDA GRACIELA LANDAURO RATTO",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18032374",
+        "Estado_civil": "",
+        "Relaciones_conyugales": [],
+        "Domicilio": "",
+        "Denominación": ""
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
     },
     {
         "Id": 6,
@@ -83,6 +122,7 @@
         "Estado_civil": "",
         "Relaciones_conyugales": [],
         "Domicilio": "Calle Guillermo Marconi número 451, San Isidro, provincia y departamento de Lima",
+<<<<<<< HEAD
         "Denominación": "EL REPRESENTANTE",
         "Representantes": [
             {
@@ -90,19 +130,30 @@
             }
         ],
         "Relaciones": []
+=======
+        "Denominación": ""
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
     },
     {
         "Id": 7,
         "Tipo": "natural",
         "Nombre": "Victor Recoba Galvez",
+<<<<<<< HEAD
         "Nacionalidad": "",
+=======
+        "Nacionalidad": "peruana",
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
         "Tipo_de_documento": "documento nacional de identidad",
         "Numero_de_documento": "07965556",
         "Estado_civil": "",
         "Relaciones_conyugales": [],
         "Domicilio": "",
+<<<<<<< HEAD
         "Denominación": "EL REPRESENTANTE",
         "Representantes": [],
         "Relaciones": []
+=======
+        "Denominación": ""
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
     }
 ]

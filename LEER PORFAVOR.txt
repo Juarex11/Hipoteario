@@ -29,7 +29,11 @@ Miércoles:
 Mi miércoles estuvo marcado por la integración de todo. Fusioné los códigos, realizando pruebas finales exhaustivas. Cada función, cada línea, se alineó perfectamente. La sensación de logro al ver el flujo de trabajo completo fue inigualable.
 
 Viernes:
+<<<<<<< HEAD
 El viernes, tras refinamientos finales, presenté mi proyecto. Sentí una mezcla de nerviosismo y orgullo mientras compartía mi trabajo. Celebré los desafíos superados y reflexioné sobre el viaje, emocionado por futuras exploraciones tecnológicas.
 
 
 Descubrimiento: Window 11 tienes que realizar el cambio por la actualizacion de vercion:
+=======
+El viernes, tras refinamientos finales, presenté mi proyecto. Sentí una mezcla de nerviosismo y orgullo mientras compartía mi trabajo. Celebré los desafíos superados y reflexioné sobre el viaje, emocionado por futuras exploraciones tecnológicas.
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83

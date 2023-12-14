@@ -4,7 +4,11 @@ from pathlib import Path
 import os
 
 # Configuración de la clave de la API de OpenAI
+<<<<<<< HEAD
 API_KEY = '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'
+=======
+API_KEY = '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'
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 openai.api_key = API_KEY
 
 
@@ -57,14 +61,22 @@ def main():
             Por favor, responde solo con el archivo JSON solicitado, sin añadir contexto adicional'''
 
             print("Enviando solicitud a OpenAI para generar el JSON...")
+<<<<<<< HEAD
             respuesta_openai = openai.chat.completions.create(
+=======
+            respuesta_openai = openai.ChatCompletion.create(
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
                 model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": prompt + "\n\n" + texto_documento}
                 ]
             )
+<<<<<<< HEAD
             json_generado = respuesta_openai.choices[0].message.content.strip()
+=======
+            json_generado = respuesta_openai.choices[0].message["content"].strip()
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 
             print("JSON generado por OpenAI:")
             print(json_generado)  # Imprime el JSON generado por OpenAI

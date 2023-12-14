@@ -7,7 +7,11 @@ import os
 import win32com.client
 
 # Configuración de la clave de la API de OpenAI
+<<<<<<< HEAD
 API_KEY = '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'
+=======
+API_KEY = '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'
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 openai.api_key = API_KEY
 
 # Función para cargar y modificar el archivo JSON
@@ -116,14 +120,22 @@ def main():
                 prompt_segmento = prompt + f"\n\nLa palabra '{target_word}' se encuentra en la página {page_number} del documento:\n\n{segmento_pagina}"
 
                 print("Enviando solicitud a OpenAI para generar el JSON...")
+<<<<<<< HEAD
                 respuesta_openai = openai.chat.completions.create(
+=======
+                respuesta_openai = openai.ChatCompletion.create(
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
                     model="gpt-3.5-turbo",
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant."},
                         {"role": "user", "content": prompt_segmento}
                     ]
                 )
+<<<<<<< HEAD
                 json_generado = respuesta_openai.choices[0].message.content.strip()
+=======
+                json_generado = respuesta_openai.choices[0].message["content"].strip()
+>>>>>>> 07757c7e23417c855c84eda7f4a847e73c9a8d83
 
                 print("JSON generado por OpenAI:")
                 print(json_generado)  # Imprime el JSON generado por OpenAI
