@@ -1,0 +1,83 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "DIEGO ALEXANDER CAMPOS LOPEZ",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "72914512",
+        "Estado_civil": "casado",
+        "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+        "Denominación": "EL CONSTITUYENTE/ EL CLIENTE/ EL DEPOSITARIO",
+        "Representantes": [
+            2,
+            3
+        ],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 2,
+                "Tipo_de_relación": "relación marital"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "KARLA STEPHANI VELEZMORO POLO",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "72919509",
+        "Estado_civil": "casada",
+        "Domicilio": "CALLE FRANCISCO SOLANO N°510 DPTO. 601 URB. SAN ANDRES II ETAPA, Distrito Trujillo, Provincia Trujillo y Departamento de La Libertad",
+        "Denominación": null,
+        "Representantes": [],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 1,
+                "Tipo_de_relación": "relación marital"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "BANCO INTERAMERICANO DE FINANZAS",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20101036813",
+        "Estado_civil": null,
+        "Domicilio": "Avenida Ricardo Rivera Navarrete N° 600, Distrito de San Isidro Provincia y Departamento de Lima",
+        "Denominación": "EL ACREEDOR",
+        "Representantes": [
+            4,
+            5
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "JESSICA GIOVANNA ALVA SELA",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18143401",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": null,
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "FRIDA GRACIELA LANDAURO RATTO",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18032374",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": null,
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    }
+]

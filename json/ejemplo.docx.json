@@ -1,0 +1,35 @@
+[
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "Manuel Gutiérrez",
+        "Nacionalidad": "",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "98765432",
+        "Estado_civil": "",
+        "Domicilio": "",
+        "Denominación": "Manuel Gutiérrez"
+    },
+    {
+        "Id": 3,
+        "Tipo": "natural",
+        "Nombre": "Carlos Rodríguez",
+        "Nacionalidad": "español",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "12345678",
+        "Estado_civil": "casado",
+        "Domicilio": "Calle Principal, Nº 123, Ciudad XYZ",
+        "Denominación": "Carlos Rodríguez"
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "María González",
+        "Nacionalidad": "española",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "87654321",
+        "Estado_civil": "divorciada",
+        "Domicilio": "",
+        "Denominación": "María González"
+    }
+]

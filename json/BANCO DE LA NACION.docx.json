@@ -1,0 +1,70 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "HURTADO RIVERO FLOR DE MARIA",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18078349",
+        "Estado_civil": "CASADA",
+        "Domicilio": "MZ. H LT 19, ANTENOR ORREGO, URB. LA RINCONADA, distrito y provincia de TRUJILLO, departamento LA LIBERTAD",
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones conyugales": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "ALFARO AVILA ANIBAL HUGO",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "10567237",
+        "Estado_civil": "CASADO",
+        "Domicilio": "MZ. H LT 19, ANTENOR ORREGO, URB. LA RINCONADA, distrito y provincia de TRUJILLO, departamento LA LIBERTAD",
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones conyugales": []
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "BANCO DE LA NACION",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20100030595",
+        "Estado_civil": null,
+        "Domicilio": "DIEGO ALMAGRO N. 297 TRUJILLO-TRUJILLO-LA LIBERTAD",
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [
+            4,
+            5
+        ],
+        "Relaciones conyugales": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "OSCAR SANDOVAL VILLEGAS OSCAR ENRIQUE",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "40274212",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones conyugales": []
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "ROSA ISABEL MENDEZ TANDAYPAN",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "17884711",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones conyugales": []
+    }
+]

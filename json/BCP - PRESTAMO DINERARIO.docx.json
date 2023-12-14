@@ -1,0 +1,156 @@
+{"personas": [
+  {
+    "Id": 1,
+    "Tipo": "Jurídica",
+    "Nombre": "CATERING MAGPE SAC",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "RUC",
+    "Numero_de_documento": "20481107629",
+    "Estado_civil": "",
+    "Domicilio": "CALLE LOS CANARIOS MZ.H5 LT. 10 URB. ALAMEDA DE SAN ANDRES",
+    "Denominación": "EL CLIENTE"
+  },
+  {
+    "Id": 2,
+    "Tipo": "Jurídica",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "06138597",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": "representante del EL CLIENTE"
+  },
+  {
+    "Id": 3,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 4,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 5,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 6,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 7,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 8,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 9,
+    "Tipo": "Conyugal",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 10,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 11,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 12,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  },
+  {
+    "Id": 13,
+    "Tipo": "Soltero",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": "EL CLIENTE"
+  },
+  {
+    "Id": 14,
+    "Tipo": "",
+    "Nombre": "",
+    "Nacionalidad": "",
+    "Tipo_de_documento": "DNI",
+    "Numero_de_documento": "",
+    "Estado_civil": "",
+    "Domicilio": "",
+    "Denominación": ""
+  }
+]}

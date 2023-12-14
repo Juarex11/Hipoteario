@@ -1,0 +1,56 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "Natural",
+        "Nombre": "ANA CECILIA DAVILA MARIN",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "72235408",
+        "Estado_civil": "SOLTERA",
+        "Domicilio": "JIRON NUÑEZ URETA 640 URBANIZACION SANTO DOMINGUITO, DISTRITO Y PROVINCIA DE TRUJILLO, DEPARTAMENTO DE LA LIBERTAD",
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [
+            2
+        ],
+        "Relaciones": []
+    },
+    {
+        "Id": 2,
+        "Tipo": null,
+        "Nombre": "LUIS MIGUEL LABENITA PASTOR",
+        "Nacionalidad": null,
+        "Tipo_de_documento": null,
+        "Numero_de_documento": "07641803",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones": []
+    },
+    {
+        "Id": 3,
+        "Tipo": null,
+        "Nombre": "DANA LISETTE LOPEZ VACA",
+        "Nacionalidad": null,
+        "Tipo_de_documento": null,
+        "Numero_de_documento": "74659279",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "Jurídica",
+        "Nombre": "Banco BBVA",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20100130204",
+        "Estado_civil": null,
+        "Domicilio": "Av. Nicolas de Piérola, Trujillo – La libertad",
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones": []
+    }
+]

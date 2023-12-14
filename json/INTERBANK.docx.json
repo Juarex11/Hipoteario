@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "GABRIELA CAROLINA ZAVALETA YPARRAGUIRRE",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "70671744",
+        "Estado_civil": "Soltera",
+        "Domicilio": "Calle Suarez N° 334, Distrito de Trujillo, Provincia de Trujillo, Departamento de La Libertad",
+        "Denominacion_en_documento": "CLIENTE"
+    },
+    {
+        "Id": 2,
+        "Tipo": "jurídica",
+        "Nombre": "Banco Internacional del Perú S.A.A.",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20100053455",
+        "Estado_civil": "",
+        "Domicilio": "Avenida Carlos Villarán 140, urbanización Santa Catalina, distrito de La Victoria, provincia de Lima, departamento de Lima, Perú",
+        "Denominacion_en_documento": "INTERBANK",
+        "Representantes": [
+            1,
+            2
+        ]
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "DEZA CONSTRUCCIONES SAC",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20603214596",
+        "Estado_civil": "",
+        "Domicilio": "Calle Granados N° 495 Dpto. 201, Urb. California, Distrito de Victor Larco Herrera, Provincia de Trujillo y Departamento de La Libertad",
+        "Denominacion_en_documento": "EL FIADOR",
+        "Representantes": [
+            3
+        ]
+    }
+]

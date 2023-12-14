@@ -1,0 +1,82 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "jurídica",
+        "Nombre": "AGROBUSINESS INTERNATIONAL PERU S.A.C.",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20602677916",
+        "Estado_civil": null,
+        "Domicilio": "Jr. Bolivar Nro. 634 Int. 210 Cent Cardo Distrito Y Provincia de Trujillo Departamento de La Libertad",
+        "Denominación que se le dará en el documento": "EL CLIENTE",
+        "Representantes": [
+            2
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "natural",
+        "Nombre": "ALFAGEME NIEMBRO PRIETO GONZALO",
+        "Nacionalidad": "peruano",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "18199627",
+        "Estado_civil": "casado",
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 3,
+        "Tipo": "jurídica",
+        "Nombre": "BANCO DE CREDITO DEL PERU",
+        "Nacionalidad": null,
+        "Tipo_de_documento": null,
+        "Numero_de_documento": "20100047218",
+        "Estado_civil": null,
+        "Domicilio": "Jirón Gamarra N° 562, de esta ciudad de Trujillo",
+        "Denominación que se le dará en el documento": "EL BANCO",
+        "Representantes": [
+            4,
+            5
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "KAREN JANET AGUILAR VEREAU",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "40600901",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 5,
+                "Tipo_de_relación": null
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Tipo": "natural",
+        "Nombre": "JOEL MIGUEL CALDERON VALDERRAMA",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "40705059",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación que se le dará en el documento": null,
+        "Representantes": [],
+        "Relaciones_conyugales": [
+            {
+                "Índice": 4,
+                "Tipo_de_relación": null
+            }
+        ]
+    }
+]

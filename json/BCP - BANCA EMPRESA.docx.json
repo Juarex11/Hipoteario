@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 1,
+        "Tipo": "natural",
+        "Nombre": "NILVER MILTON MARQUEZ FLORES",
+        "Nacionalidad": "peruano",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "41129255",
+        "Estado_civil": "soltero",
+        "Domicilio": "Av. Ricardo Palma N° 396 Urb. Palermo, distrito de Trujillo, provincia de Trujillo, departamento de La Libertad",
+        "Denominación": "EL OTORGANTE",
+        "Representantes": [
+            2,
+            3
+        ],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 2,
+        "Tipo": "jurídica",
+        "Nombre": "BANCO DE CRÉDITO DEL PERÚ",
+        "Nacionalidad": null,
+        "Tipo_de_documento": "RUC",
+        "Numero_de_documento": "20100047218",
+        "Estado_civil": null,
+        "Domicilio": "calle Gamarra Nº 562, de la ciudad de Trujillo",
+        "Denominación": "EL BANCO",
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 3,
+        "Tipo": "natural",
+        "Nombre": "PAUL GEANCARLO ZEGARRA RUPAY",
+        "Nacionalidad": "peruano",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "45561370",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": null,
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    },
+    {
+        "Id": 4,
+        "Tipo": "natural",
+        "Nombre": "MARIA ELENA VIZCONDE RODRIGUEZ",
+        "Nacionalidad": "peruana",
+        "Tipo_de_documento": "DNI",
+        "Numero_de_documento": "44617229",
+        "Estado_civil": null,
+        "Domicilio": null,
+        "Denominación": null,
+        "Representantes": [],
+        "Relaciones_conyugales": []
+    }
+]
